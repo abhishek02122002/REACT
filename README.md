@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://reactjs.org/logo-og.png" alt="React Logo" width="200">
-  <h1>React</h1>
+  <h1>REACT</h1>
 </div>
 
 This is going to be my **React** repository. In this repository, I am going to share my React journey day by day.  

@@ -1,11 +1,23 @@
 <div align="center">
   <img src="https://reactjs.org/logo-og.png" alt="React Logo" width="200">
-  <h1>REACT</h1>
+  <h1>🚀REACT🚀</h1>
 </div>
 
-This is going to be my **React** repository. In this repository, I am going to share my React journey day by day.  
-I will share different projects from basic to advanced and keep updating the repository.  
-Stay updated to this repository for more <span style="background-color:black;color:white;padding:2px 5px;border-radius:5px;"><b>REACT</b></span> codes.
+This repository is dedicated to my **React** journey. I'll share my progress daily, covering various projects from basic to advanced concepts.
 
-## Learning Resource
-I am learning React from **[Anurag Singh Procoder](https://www.youtube.com/watch?v=_rTCzxg6VmM&list=PLfEr2kn3s-brb-vHE-c-QCUq-nFwDYtWu)**.
+Stay tuned for regular updates and more `REACT` codes!
+
+## Contents 
+
+| DAY | TOPICS |
+|:----:|:-------|
+| DAY 1 | Introduction to React: Advantages over plain JavaScript |
+| DAY 2 | Implementing React and ReactDOM: Using CDN, React.createElement(), and properties |
+
+## Learning Resources
+I'm following tutorials by **[Anurag Singh Procoder](https://www.youtube.com/watch?v=_rTCzxg6VmM&list=PLfEr2kn3s-brb-vHE-c-QCUq-nFwDYtWu)** to learn React.
+
+## About Me
+I'm passionate about web developer and excited to explore the world of React. Follow along with my journey!
+
+## <div align="center">HAPPY CODING! 👨🏽‍💻🚀</div>

@@ -17,7 +17,7 @@ Stay tuned for regular updates and more `REACT` codes!
 ## Learning Resources
 I'm following tutorials by **[Anurag Singh Procoder](https://www.youtube.com/watch?v=_rTCzxg6VmM&list=PLfEr2kn3s-brb-vHE-c-QCUq-nFwDYtWu)** to learn React.
 
-## About Me
+## About Me👨🏼‍💻
 I'm passionate about web developer and excited to explore the world of React. Follow along with my journey!
 
 ## <div align="center">HAPPY CODING! 👨🏽‍💻🚀</div>
